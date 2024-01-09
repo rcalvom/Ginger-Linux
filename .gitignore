@@ -1,0 +1,7 @@
+# Live Iso
+live-iso/work/*
+live-iso/out/*
+
+# Instalation Iso
+instalation-iso/work/*
+instalation-iso/out/*
