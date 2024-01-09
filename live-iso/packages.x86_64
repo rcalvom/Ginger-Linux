@@ -1,3 +1,5 @@
+# Default
+
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -16,7 +18,6 @@ cryptsetup
 darkhttpd
 ddrescue
 dhclient
-dhcpcd
 diffutils
 dmidecode
 dmraid
@@ -128,3 +129,21 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# Desktop Manager
+qtile
+lightdm
+lightdm-gtk-greeter
+
+# System utils
+networkmanager
+xdg-user-dirs
+xdg-utils
+
+# Development
+git
+firefox
+alacritty
+jre17-openjdk
+jdk17-openjdk
+
